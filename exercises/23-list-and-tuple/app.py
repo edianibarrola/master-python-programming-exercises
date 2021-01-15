@@ -1,0 +1,5 @@
+list_of_values = input()
+print(list_of_values)
+print(type(list_of_values))
+final_list = list_of_values.split(",")
+print(final_list)
